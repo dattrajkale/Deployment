@@ -43,7 +43,6 @@ def predict_point():
 
     return render_template('index.html',prediction=prediction)
 
-
 # running the APP
 
 if __name__  == '__main__':
